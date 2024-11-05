@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TaskNix/static/css/main.871d8107.css",
-    "main.js": "/TaskNix/static/js/main.0a9a304b.js",
+    "main.js": "/TaskNix/static/js/main.70d5420a.js",
     "static/js/952.3536c493.chunk.js": "/TaskNix/static/js/952.3536c493.chunk.js",
     "static/js/453.6d709e87.chunk.js": "/TaskNix/static/js/453.6d709e87.chunk.js",
     "index.html": "/TaskNix/index.html",
     "main.871d8107.css.map": "/TaskNix/static/css/main.871d8107.css.map",
-    "main.0a9a304b.js.map": "/TaskNix/static/js/main.0a9a304b.js.map",
+    "main.70d5420a.js.map": "/TaskNix/static/js/main.70d5420a.js.map",
     "952.3536c493.chunk.js.map": "/TaskNix/static/js/952.3536c493.chunk.js.map",
     "453.6d709e87.chunk.js.map": "/TaskNix/static/js/453.6d709e87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.871d8107.css",
-    "static/js/main.0a9a304b.js"
+    "static/js/main.70d5420a.js"
   ]
 }
